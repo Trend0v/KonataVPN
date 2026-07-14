@@ -4,11 +4,12 @@
 
 ## ⬇ Доступные файлы
 
-В данном репозитории опубликованы готовые исполняемые файлы для Windows (x64):
+В данном репозитории опубликованы готовые файлы для установки и использования:
 
-1. **[installer-konata-vpn.exe](installer-konata-vpn.exe)** — Установщик приложения. Устанавливает клиент в папку `C:\KonataVPN` по умолчанию, создаёт ярлыки на рабочем столе и в меню Пуск.
-2. **[konatavpn.exe](konatavpn.exe)** — Портативная (Portable) версия. Запуск в один клик без установки.
-3. **[konata-mihomo.exe](konata-mihomo.exe)** — Standalone консольное ядро mihomo для продвинутых пользователей.
+1. **[installer-konata-vpn.exe](installer-konata-vpn.exe)** — Установщик приложения для Windows (x64). Устанавливает клиент в папку `C:\KonataVPN` по умолчанию, создаёт ярлыки на рабочем столе и в меню Пуск.
+2. **[konatavpn.exe](konatavpn.exe)** — Портативная (Portable) версия для Windows (x64). Запуск в один клик без установки.
+3. **[konata-mihomo.exe](konata-mihomo.exe)** — Standalone консольное ядро mihomo для Windows (x64).
+4. **[konatavpn-firefox-extension.zip](konatavpn-firefox-extension.zip)** — Архив расширения для браузера Firefox. Позволяет включать/выключать проксирование трафика прямо в браузере в один клик.
 
 ---
 
