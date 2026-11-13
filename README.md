@@ -1,5 +1,7 @@
 # 💻 KonataVPN Desktop Client
 
+[▶ Посмотреть анимацию логотипа KonataVPN (MP4)](https://github.com/Trend0v/KonataVPN/blob/main/media/KonataVPN-logo.mp4)
+
 Официальный десктопный клиент для подключения к скоростной сети **KonataVPN** на базе ядра **mihomo** (Clash.Meta).
 
 ## ⬇ Доступные файлы
